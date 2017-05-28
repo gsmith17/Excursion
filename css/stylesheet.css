@@ -1,15 +1,30 @@
 h1 {
   color: white;
-  font-family: Helvetica;
   text-align: center;
+  font-size: 60px;
 }
 body {
   background-color: black;
   color: white;
   text-align: center;
+  font-family: Helvetica, sans-serif;
 }
 h2 {
   color: white;
-  font-family: Helvetica;
   text-align: center;
+  font-size: 40px;
+}
+div.camping {
+  margin: 27px;
+}
+div.iphone {
+  margin: 8px;
+}
+video#iphone {
+  margin-top: 27px;
+  margin-bottom: 10px;
+}
+p.copyright {
+text-align: right;
+color: grey;
 }
